@@ -100,7 +100,7 @@ print(swap_bookends([8, 3]))
 <div style="border-bottom: 1px solid gray; margin-bottom: 5px;"></div>
 Thank you for reading!
 
-To see the main Python program for Programming Assignment 1, click this and download. Open on Jupyter Notebook, then run all cells. 
+To see the main Python program for Programming Assignment 1, click this (https://github.com/denisewafaespano-code/ECE2112-ProgrammingAssignment1/blob/37a9c98637178f2d66dae0cd43499bdc0add57ca/Programming%20Assignment1.ipynb) and download. Open on Jupyter Notebook, then run all cells. 
 
 **READ ME file Version History:**
 
